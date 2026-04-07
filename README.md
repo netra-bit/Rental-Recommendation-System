@@ -12,15 +12,19 @@ This project is a smart rental recommendation system that helps users find suita
 6. Fast and simple user interaction
    
 # Technical Stack
-Python
-Pandas
-Scikit-learn
-Streamlit 
-Mapping API (Google Maps )
+1. Python
+2. Pandas
+3. Scikit-learn
+4. Streamlit 
+5. Mapping API (Google Maps )
 
 # How It Works
 User inputs preferences (location, budget, gender)
+|
 Dataset is filtered based on user criteria
+|
 KNN algorithm finds similar rental options
+|
 System displays the most relevant recommendations
-Results can be visualized on a map
+|
+Results can be visualized on a map.
