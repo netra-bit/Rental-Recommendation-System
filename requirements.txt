@@ -1,0 +1,5 @@
+# Requirements (Purpose)
+pandas – data handling and filtering
+numpy – numerical operations
+scikit-learn – KNN algorithm and label encoding
+streamlit – user interface and app deployment
