@@ -1,0 +1,51 @@
+﻿ID,Property_Type ,Gender,Location,BHK,Total_Rooms,Rent_per_month,Area_sqft,Latitude,Longitude,Parking ,Wifi
+1,Single room,Girls,Sai nagar-Amravati,0,5,2000,190,20.897305,77.744295,yes,no
+2,Single room,Girls,Sai nagar-Amravati,0,1,2100,150,20.897442,77.744526,yes,no
+3,Single room,Girls,Sai nagar-Amravati,0,2,1800,180,20.897265,77.744475,no,no
+4,Flat,Boys,Sai nagar-Amravati,1,3,8000,450,20.897329,77.745162,yes,yes
+5,Single room,Girls,Sai nagar-Amravati,0,6,2500,140,20.896972,77.744266,no,yes
+6,Flat,Boys,Sai nagar-Amravati,1,3,9000,600,20.897959,77.743814,yes,yes
+7,Hostel,Girls,Sai nagar-Amravati,0,14,2800,140,20.895991,77.740515,yes,yes
+8,Single room,Girls,Sai nagar-Amravati,0,3,1900,160,20.898644,77.743783,no,no
+9,Single room,Girls,Sai nagar-Amravati,0,12,2300,160,20.896065,77.745827,no,no
+10,Single room,Girls,Sai nagar-Amravati,0,4,3000,150,20.894227,77.744003,yes,yes
+11,Flat,Both,Sai nagar-Amravati,2,4,1200,800,20.886712,77.740342,yes,yes
+12,Single room,Girls,Sai nagar-Amravati,0,3,3000,250,20.897242,77.737481,yes,no
+13,Single room,Boys,Sai nagar-Amravati,0,6,2500,190,20.893321,77.746046,yes,yes
+14,Single room,Girls,Sai nagar-Amravati,0,4,2000,200,20.893895,77.744108,yes,no
+15,Single room,Girls,Sai nagar-Amravati,0,2,2200,180,20.89387,77.744203,no,no
+16,Single room,Girls,Sai nagar-Amravati,0,1,2300,190,20.894064,77.744235,yes,no
+17,Single room,Girls,Sai nagar-Amravati,0,4,2000,160,20.89404,77.744467,yes,no
+18,Single room,Girls,Dastur Nagar-Amravati,0,2,1700,130,20.898922,77.758625,no,yes
+19,Hostel,Girls,MIDC road-Amaravti,0,8,2200,170,20.901523,77.761626,yes,yes
+20,Single room,Boys,Gopal nagar-Amravati,0,3,2800,145,20.89703,77.753978,yes,yes
+21,Single room,Boys,Gopal nagar-Amravati,0,4,2500,180,20.89759,77.75325,no,yes
+22,Single room,Girls,Gopal nagar-Amravati,0,2,2300,120,20.898074,77.753591,yes,no
+23,Single room,Boys,Gopal nagar-Amravati,0,9,3500,170,20.897139,77.753172,yes,yes
+24,Single room,Girls,Gopal nagar-Amravati,0,5,2000,160,20.898486,77.753182,yes,no
+25,Single room,Girls,Gopal nagar-Amravati,0,1,1800,130,20.896888,77.75365,no,no
+26,Hostel,Girls,Dastur Nagar-Amravati,0,10,7000,120,20.905,77.771,yes,yes
+27,Flat,Both,Dastur Nagar-Amravati,1,3,8500,600,20.904,77.7705,no,no
+28,Single room,Girls,Gadge Nagar-Amravati,0,12,3000,130,20.949,77.7695,yes,yes
+29,Hostel,Girls,Gadge Nagar-Amravati,0,20,5500,150,20.949,77.7695,yes,yes
+30,Hostel,Boys,Gadge Nagar-Amravati,0,30,5000,200,20.949,77.7695,yes,yes
+31,Single room,Boys,Gadge Nagar-Amravati,0,10,4500,140,20.949,77.7695,yes,yes
+32,Single room,Girls,Gadge Nagar-Amravati,0,8,5500,100,20.949,77.7695,yes,yes
+33,Single room,Both,Panchavati-Amravati,0,5,5000,120,20.9525,77.7647,yes,yes
+34,Hostel,Boys,Panchavati-Amravati,0,20,4800,180,20.9525,77.7647,yes,yes
+35,Hostel,Boys,Panchavati-Amravati,0,15,4700,150,20.9525,77.7647,yes,yes
+36,Hostel,Girls,University Road-Amravati,0,100,3000,180,20.9403,77.78,yes,yes
+37,Hostel,Boys,University Road-Amravati,0,80,2800,190,20.9403,77.78,yes,yes
+38,Hostel,Boys,Mardi Road-Amravati,0,15,4500,160,20.937,77.7895,yes,yes
+39,Single room,Girls,Gadge Nagar-Amravati,0,4,2400,150,20.9481723,77.766215,yes,no
+40,Single room,Girls,Gadge Nagar-Amravati,0,6,2100,170,20.948635,77.766415,yes,no
+41,Single room,Girls,Gadge Nagar-Amravati,0,2,2000,130,20.950238,77.76501,yes,no
+42,Single room,Boys,Gadge Nagar-Amravati,0,3,2700,120,20.949758,77.765583,yes,yes
+43,Flat,Both,Kathora naka-Amravati,2,5,12000,160,20.98847,77.759193,yes,yes
+44,Single room,Girls,Kathora naka-Amravati,0,1,2200,130,20.9879797,77.759041,yes,no
+45,Single room,Girls,Kathora naka-Amravati,0,3,2400,120,20.987609,77.759704,yes,no
+46,Single room,Both,Gadge Nagar-Amravati,0,4,2300,160,20.94861,77.768001,yes,no
+47,Single room,Girls,Gadge Nagar-Amravati,0,2,2000,190,20.948402,77.768479,no,no
+48,Single room,Boys,Gadge Nagar-Amravati,0,6,1700,150,20.948641,77.768343,yes,no
+49,Single room,Girls,Gadge Nagar-Amravati,0,8,2500,140,20.948467,77.767239,yes,yes
+50,Single room,Girls,Gadge Nagar-Amravati,0,3,1800,130,20.948698,77.766946,yes,no
