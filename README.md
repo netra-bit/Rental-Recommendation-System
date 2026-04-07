@@ -1,2 +1,26 @@
-# Rental-Recommendation-Mapping-System
-An intelligent rental recommendation system that uses machine learning (KNN) and user preference filtering to provide accurate, location-based room suggestions with mapping support.
+# Rental Recommendation & Mapping System
+
+# Overview
+This project is a smart rental recommendation system that helps users find suitable rooms based on their preferences such as location, budget, and gender. It uses machine learning (KNN) along with filtering techniques to provide accurate and relevant suggestions.
+
+# Features
+1. Personalized room recommendations using KNN
+2. Location-based filtering
+3. Gender-based filtering (Boys/Girls)
+4. Budget-based suggestions
+5. Mapping integration for better visualization
+6. Fast and simple user interaction
+   
+# Technical Stack
+Python
+Pandas
+Scikit-learn
+Streamlit 
+Mapping API (Google Maps )
+
+# How It Works
+User inputs preferences (location, budget, gender)
+Dataset is filtered based on user criteria
+KNN algorithm finds similar rental options
+System displays the most relevant recommendations
+Results can be visualized on a map
