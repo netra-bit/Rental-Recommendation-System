@@ -20,11 +20,11 @@ This project is a smart rental recommendation system that helps users find suita
 
 # How It Works
 User inputs preferences (location, budget, gender)
-|
+->
 Dataset is filtered based on user criteria
-|
+->
 KNN algorithm finds similar rental options
-|
+->
 System displays the most relevant recommendations
-|
-Results can be visualized on a map.
+->
+Results can be visualized on a map
